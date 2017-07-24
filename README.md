@@ -3,7 +3,7 @@
 
 This project detects and distinguishes between two languages using LSTMs.
 
-This work was the produce of a collaboration between myself and M.S. Suraj. This was the final project of our CSE 6240 Web Search and Text Mining graduate course.  
+This work was the product of a collaboration between myself and M.S. Suraj. This was the final project of our CSE 6240 Web Search and Text Mining graduate course.  
          
 # Part 1 - Building String Scoring Models
 
